@@ -32,13 +32,11 @@ An advanced city-wise voting application built with **React**, **Firebase Realti
 
 ## 🧑‍💻 Project Setup
 
-### 1. Clone the Repository
-
-```bash
+### 1. Clone the Repository ###
 git clone https://github.com/your-username/online-voting-system.git
 cd online-voting-system
 
-# User Flow
+# User Flow #
 
 Register/Login
 
@@ -60,5 +58,5 @@ Leaderboard
 
 Shows leading candidates and vote counts (only after voting).
 
-Contributers:
+## Contributers:
 Stuti Sharan (Individual)
